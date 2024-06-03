@@ -9,7 +9,7 @@ ANALYSIS PROCESS
 Data Cleaning: I used Excel in changing the TRANSACTION ID data type to numeric
 Data Analysis: I loaded the data to Power BI and use DAX measure in calculating total trips for each route and peak travel time. 
 INSIGHTS
-        33
+        31653 Total Trips
         65 Routes
        Most popular routes are
     1. Birmingham New Street to London St Pancras
@@ -33,8 +33,7 @@ INSIGHTS
     • 1880 Cancelled Trips
     • 2292 Delayed Trips
     • Technical Issue is mostly the cause of delay and cancellation of trips
-      
-https://mavenanalytics.io/project/15367
+
 Recommendations
     • Employ more staffs
     • Improve Working Conditions
