@@ -31,8 +31,8 @@ Data Analysis: I loaded the data to Power BI and use DAX measure in calculating 
 - Peak travel times are 6am and 6pm
 - Total Revenue generated is £703,219
 - Total Revenue Loss incurred is £38,702
-- Advance, Offpeak and Anytime ticket type has total revenue of 293601, 209223, 200395 respectively
-- Standard, First Class ticket class has total revenue of 560184, 143035 respectively
+- Advance, Offpeak and Anytime ticket type has total revenue of £293601, £209223, £200395 respectively
+- Standard, First Class ticket class has total revenue of £560184, £143035 respectively
 - 27481 Ontime trips 
 - 1880 Cancelled Trips
 - 2292 Delayed Trips
