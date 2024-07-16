@@ -36,7 +36,7 @@ Data Analysis: I loaded the data to Power BI and use DAX measure in calculating 
 - 27481 Ontime trips 
 - 1880 Cancelled Trips
 - 2292 Delayed Trips
-- Technical Issue is mostly the cause of delay and cancellation of trips
+
 
 ### Recommendations
 1. Employ more staffs
